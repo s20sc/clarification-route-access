@@ -1,0 +1,128 @@
+{
+  "src/quantitative/recompute.py": {
+    "archive": "Quantitative_Data.zip",
+    "member": "quantitative/recompute.py",
+    "archive_sha256": "f4e677d069d26298301946757f8553d5354650e0f7d29a78a53327db73af6ca9",
+    "source_sha256": "f4e677d069d26298301946757f8553d5354650e0f7d29a78a53327db73af6ca9",
+    "comment_change_only": false
+  },
+  "src/quantitative/research/design-43/build_choice_draft.py": {
+    "archive": "Quantitative_Data.zip",
+    "member": "quantitative/research/design-43/build_choice_draft.py",
+    "archive_sha256": "167bb795271c3d453a86d1ff5eef9700c65b4ce793533563f8b237769e8960af",
+    "source_sha256": "8aad2674afb14d9b91e4027a7ea6d47085eb35a5426bc02cab02d579a47ee7c6",
+    "comment_change_only": true
+  },
+  "src/quantitative/research/design-44/run_choice_pilot.py": {
+    "archive": "Quantitative_Data.zip",
+    "member": "quantitative/research/design-44/run_choice_pilot.py",
+    "archive_sha256": "e55dbcaa4ef5eee30eebb559b324f0d33a65d4de3f173b9b09321f187b7d14c6",
+    "source_sha256": "e55dbcaa4ef5eee30eebb559b324f0d33a65d4de3f173b9b09321f187b7d14c6",
+    "comment_change_only": false
+  },
+  "src/quantitative/research/design-46/run_choice_diagnostic.py": {
+    "archive": "Quantitative_Data.zip",
+    "member": "quantitative/research/design-46/run_choice_diagnostic.py",
+    "archive_sha256": "3af1582fc422c2b8eadc34450a4c0c1ee41617c18a773686ebeb803b1cdac6c7",
+    "source_sha256": "3af1582fc422c2b8eadc34450a4c0c1ee41617c18a773686ebeb803b1cdac6c7",
+    "comment_change_only": false
+  },
+  "src/quantitative/research/design-59/retrieval_contract.py": {
+    "archive": "Quantitative_Data.zip",
+    "member": "quantitative/research/design-59/retrieval_contract.py",
+    "archive_sha256": "2ff7db71df939d93cdd91fdd826fc9cb9a954f6d5a3970aeacc771b53afbfdf6",
+    "source_sha256": "2ff7db71df939d93cdd91fdd826fc9cb9a954f6d5a3970aeacc771b53afbfdf6",
+    "comment_change_only": false
+  },
+  "src/quantitative/research/design-86/choice_bridge.py": {
+    "archive": "Quantitative_Data.zip",
+    "member": "quantitative/research/design-86/choice_bridge.py",
+    "archive_sha256": "2df215f21e6f0d0cf81bc6289a145d05b7844f587f329cd9bbb5db44c37b50e0",
+    "source_sha256": "2df215f21e6f0d0cf81bc6289a145d05b7844f587f329cd9bbb5db44c37b50e0",
+    "comment_change_only": false
+  },
+  "src/quantitative/research/design-87/reconcile_choice.py": {
+    "archive": "Quantitative_Data.zip",
+    "member": "quantitative/research/design-87/reconcile_choice.py",
+    "archive_sha256": "2daef6add475b5179aa6991ff5089847a16fec1dbd2ca2165742a7d7725371eb",
+    "source_sha256": "2daef6add475b5179aa6991ff5089847a16fec1dbd2ca2165742a7d7725371eb",
+    "comment_change_only": false
+  },
+  "src/quantitative/research/design-87/run_choice.py": {
+    "archive": "Quantitative_Data.zip",
+    "member": "quantitative/research/design-87/run_choice.py",
+    "archive_sha256": "9d03e52adb2ed22939c7cede360277d0d0f168a864707e0987488210b69fabe7",
+    "source_sha256": "9d03e52adb2ed22939c7cede360277d0d0f168a864707e0987488210b69fabe7",
+    "comment_change_only": false
+  },
+  "src/quantitative/research/design-90/crossover.py": {
+    "archive": "Quantitative_Data.zip",
+    "member": "quantitative/research/design-90/crossover.py",
+    "archive_sha256": "9a3830e179123f7bbef19514c91f687fda903143811a10e91ec59126c0dcd88b",
+    "source_sha256": "9a3830e179123f7bbef19514c91f687fda903143811a10e91ec59126c0dcd88b",
+    "comment_change_only": false
+  },
+  "src/controllers/experiments/design-93/transport/guarded_rim.py": {
+    "archive": "Controller_Records.zip",
+    "member": "controllers/audit/design-93/transport/guarded_rim.py",
+    "archive_sha256": "0f110ec51fff084dd1e85313e020031826e156704966543463b5570194292ffa",
+    "source_sha256": "0f110ec51fff084dd1e85313e020031826e156704966543463b5570194292ffa",
+    "comment_change_only": false
+  },
+  "src/controllers/experiments/design-93/transport/retrieve_requested.py": {
+    "archive": "Controller_Records.zip",
+    "member": "controllers/audit/design-93/transport/retrieve_requested.py",
+    "archive_sha256": "4907df90f94a4d196a9c9e1b51f44b0644ae4e53d52e761f2f950b525d294ba6",
+    "source_sha256": "4907df90f94a4d196a9c9e1b51f44b0644ae4e53d52e761f2f950b525d294ba6",
+    "comment_change_only": false
+  },
+  "src/controllers/experiments/design-94/transport/guarded_rim.py": {
+    "archive": "Controller_Records.zip",
+    "member": "controllers/audit/design-94/transport/guarded_rim.py",
+    "archive_sha256": "0f110ec51fff084dd1e85313e020031826e156704966543463b5570194292ffa",
+    "source_sha256": "0f110ec51fff084dd1e85313e020031826e156704966543463b5570194292ffa",
+    "comment_change_only": false
+  },
+  "src/controllers/experiments/design-94/transport/retrieve_requested.py": {
+    "archive": "Controller_Records.zip",
+    "member": "controllers/audit/design-94/transport/retrieve_requested.py",
+    "archive_sha256": "4907df90f94a4d196a9c9e1b51f44b0644ae4e53d52e761f2f950b525d294ba6",
+    "source_sha256": "4907df90f94a4d196a9c9e1b51f44b0644ae4e53d52e761f2f950b525d294ba6",
+    "comment_change_only": false
+  },
+  "src/controllers/experiments/design-95/transport/guarded_rim.py": {
+    "archive": "Controller_Records.zip",
+    "member": "controllers/audit/design-95/transport/guarded_rim.py",
+    "archive_sha256": "7a045ebe494694bde8746b7ef3a223c213ed902a5385afa476adda2f788d3355",
+    "source_sha256": "7a045ebe494694bde8746b7ef3a223c213ed902a5385afa476adda2f788d3355",
+    "comment_change_only": false
+  },
+  "src/controllers/experiments/design-95/transport/retrieve_requested.py": {
+    "archive": "Controller_Records.zip",
+    "member": "controllers/audit/design-95/transport/retrieve_requested.py",
+    "archive_sha256": "8840d376a9cfe613a85f0de7a79752e36a481bd1d4a5d33437c54e6e98018644",
+    "source_sha256": "8840d376a9cfe613a85f0de7a79752e36a481bd1d4a5d33437c54e6e98018644",
+    "comment_change_only": false
+  },
+  "src/controllers/verify.py": {
+    "archive": "Controller_Records.zip",
+    "member": "controllers/verify.py",
+    "archive_sha256": "483599123839e7d771536448cdaabcd344c621795888f403067e05fa25ba2f21",
+    "source_sha256": "a8ab4fd325630cc83b84a505a34c501139d3ed25ee54843beb490df4f585c94b",
+    "comment_change_only": true
+  },
+  "src/observations/verify.py": {
+    "archive": "Observation_Records.zip",
+    "member": "observations/verify.py",
+    "archive_sha256": "89db5a2fa6a742acda6bac011853225ca2b4948372d1b767f2f5cc598d60f87e",
+    "source_sha256": "89db5a2fa6a742acda6bac011853225ca2b4948372d1b767f2f5cc598d60f87e",
+    "comment_change_only": false
+  },
+  "src/additional_movies/verify.py": {
+    "archive": "Additional_Original_Videos.zip",
+    "member": "additional_movies/verify.py",
+    "archive_sha256": "154be34b9e2d3556e6b1cb4e97e07a5ee6565b4292ea1376b7e8d0416f14dfbc",
+    "source_sha256": "154be34b9e2d3556e6b1cb4e97e07a5ee6565b4292ea1376b7e8d0416f14dfbc",
+    "comment_change_only": false
+  }
+}
